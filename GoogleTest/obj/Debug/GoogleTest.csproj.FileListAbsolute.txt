@@ -1,0 +1,10 @@
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\Dependencies\chromedriver.exe
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\GoogleTest.dll
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\GoogleTest.pdb
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\WebDriver.dll
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\WebDriver.Support.dll
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\WebDriver.xml
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\bin\Debug\WebDriver.Support.xml
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\obj\Debug\GoogleTest.dll
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\obj\Debug\GoogleTest.pdb
+D:\Programming\C++\testing_study\GoogleTest\GoogleTest\obj\Debug\GoogleTest.csprojResolveAssemblyReference.cache
