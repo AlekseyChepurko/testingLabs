@@ -35,7 +35,7 @@ namespace GoogleTest
                 wdriver.Navigate().GoToUrl("https://www.facebook.com/login.php");
                 wdriver.Manage().Window.Maximize();
                 wdriver.FindElement(By.Id("email")).SendKeys("iviet@list.ru");
-                wdriver.FindElement(By.Id("pass")).SendKeys("cP8ne2ba");
+                wdriver.FindElement(By.Id("pass")).SendKeys("***");
                 wdriver.FindElement(By.Id("loginbutton")).Click();
 
 
@@ -53,7 +53,7 @@ namespace GoogleTest
         //        wdriver.Navigate().GoToUrl("https://www.facebook.com/login.php");
         //        wdriver.Manage().Window.Maximize();
         //        wdriver.FindElement(By.Id("email")).SendKeys("iviet@list.ru");
-        //        wdriver.FindElement(By.Id("pass")).SendKeys("cP8ne2ba");
+        //        wdriver.FindElement(By.Id("pass")).SendKeys("***");
         //        wdriver.FindElement(By.Id("loginbutton")).Click();
 
 
@@ -87,7 +87,7 @@ namespace GoogleTest
                 wdriver.Navigate().GoToUrl("https://www.facebook.com/login.php");
                 wdriver.Manage().Window.Maximize();
                 wdriver.FindElement(By.Id("email")).SendKeys("iviet@list.ru");
-                wdriver.FindElement(By.Id("pass")).SendKeys("cP8ne2ba");
+                wdriver.FindElement(By.Id("pass")).SendKeys("***");
                 wdriver.FindElement(By.Id("loginbutton")).Click();
 
                 string titleText = "";
@@ -116,7 +116,7 @@ namespace GoogleTest
                 wdriver.Navigate().GoToUrl("https://www.facebook.com/login.php");
                 wdriver.Manage().Window.Maximize();
                 wdriver.FindElement(By.Id("email")).SendKeys("iviet@list.ru");
-                wdriver.FindElement(By.Id("pass")).SendKeys("cP8ne2ba");
+                wdriver.FindElement(By.Id("pass")).SendKeys("***");
                 wdriver.FindElement(By.Id("loginbutton")).Click();
 
                 string givenText = "";
